@@ -1,0 +1,20 @@
+[
+    {
+        "id": "virtual-birthday-1",
+        "imgNum": 1,
+        "type": "card",
+        "projectName": "Virtual Birthday Card",
+        "projectText": "The surprise and delight of a virtual birthday card created for my family member.",
+       " projectLink": "https://github.com/JulioCLop/VirtualBirthdayCard",
+        "projectLanguage": "JavaScript"
+
+      
+    },{
+        "id": "r-p-s-2",
+        "imgNum": 2,
+        "type": "games",
+        "projectName": "Rock, Paper, Scissors",
+        "projectText": " Simple rock, paper, scissors project written in pure JavaScript.",
+        "projectLink": "https://github.com/JulioCLop/rpsgame",
+        "projectLanguage": "JavaScript"
+    }]
